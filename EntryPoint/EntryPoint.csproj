@@ -46,6 +46,8 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="C:\repos\INFDEF01-6A Assignments.cs" />
+    <Compile Include="Node.cs" />
+    <Compile Include="NodeTree.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
